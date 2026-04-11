@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-groq
+duckduckgo-search
+ddgs
+python-dotenv
+pandas
+plotly
